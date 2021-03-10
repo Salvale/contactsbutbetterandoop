@@ -1,0 +1,7 @@
+C:\Users\c.doris\source\repos\cxntxcts\cxntxcts\bin\Debug\cxntxcts.exe.config
+C:\Users\c.doris\source\repos\cxntxcts\cxntxcts\bin\Debug\cxntxcts.exe
+C:\Users\c.doris\source\repos\cxntxcts\cxntxcts\bin\Debug\cxntxcts.pdb
+C:\Users\c.doris\source\repos\cxntxcts\cxntxcts\obj\Debug\cxntxcts.csprojAssemblyReference.cache
+C:\Users\c.doris\source\repos\cxntxcts\cxntxcts\obj\Debug\cxntxcts.csproj.CoreCompileInputs.cache
+C:\Users\c.doris\source\repos\cxntxcts\cxntxcts\obj\Debug\cxntxcts.exe
+C:\Users\c.doris\source\repos\cxntxcts\cxntxcts\obj\Debug\cxntxcts.pdb
